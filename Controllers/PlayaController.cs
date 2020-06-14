@@ -8,7 +8,7 @@ namespace PlayaCore.Controllers
 {
     public class PlayaController : Controller
     {
-        public ActionResult Index()
+        public ActionResult List()
         {
             return View();
         }

@@ -66,3 +66,4 @@ C:\Users\Ali\source\repos\CoreBootcamp\PlayaCore\bin\Debug\netcoreapp3.1\runtime
 C:\Users\Ali\source\repos\CoreBootcamp\PlayaCore\obj\Debug\netcoreapp3.1\PlayaCore.csproj.CoreCompileInputs.cache
 C:\Users\Ali\source\repos\CoreBootcamp\PlayaCore\obj\Debug\netcoreapp3.1\PlayaCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Ali\source\repos\CoreBootcamp\PlayaCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ali\source\repos\CoreBootcamp\PlayaCore\obj\Debug\netcoreapp3.1\Razor\Views\Playa\List.cshtml.g.cs
